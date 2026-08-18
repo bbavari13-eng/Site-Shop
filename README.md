@@ -3,7 +3,7 @@
 <img width="60" height="68" alt="EverShop Logo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/logo-green.png"/>
 </p>
 <p align="center">
-  <h1 align="center">EverShop</h1>
+  <h1 align="center"Fouad Hfs </h1>
 </p>
 <p align="center">
   <a href="https://trendshift.io/repositories/212" target="_blank"><img src="https://trendshift.io/api/badge/repositories/212" alt="evershopcommerce%2Fevershop | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
